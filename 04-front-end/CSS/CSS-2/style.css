@@ -1,0 +1,16 @@
+
+/* selector por elemento */
+p {
+    color: blueviolet;
+}
+
+/* esto es un selector de clase */
+.estilos {
+color:brown;
+}
+
+/* esto es un id */
+#parrafito {
+    color: crimson;
+}
+

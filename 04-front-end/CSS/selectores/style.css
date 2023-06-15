@@ -1,0 +1,39 @@
+h1 {
+    color: violet;
+
+}
+
+.parrafo{
+    color: tomato;
+}
+
+div p {
+    color: blue;
+}
+
+.tercerparrafo {
+
+    color: chartreuse;
+    
+}
+
+img{
+    width: 400px;
+border-style: ridge;
+;
+}
+
+.tercerparrafo:hover{
+
+    color: blueviolet;
+    border: 0dvh;
+}
+
+.button {
+    background-color: aqua;
+    border: 1px solid red;
+    border-radius:  6px;
+    color: black;
+    padding: 7px;
+
+}

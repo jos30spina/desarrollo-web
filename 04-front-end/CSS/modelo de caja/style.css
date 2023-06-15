@@ -1,0 +1,26 @@
+
+.box {
+height: 200px;
+width: 100%;
+padding:20px 10px 20px 10px
+}
+
+.box1 {
+
+    background-color: aqua;
+    border: 2px solid navy;
+
+}
+
+
+.box2 {
+background-color: blue;
+border: 4px dotted;
+}
+
+
+.box3 {
+
+    background-color: blueviolet;
+    border:  10px dashed;
+}
