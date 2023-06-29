@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-carta {
+  background-color:aliceblue;
+  width: 900px;
+  height: 600px;
+  display: flex;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 1px 1px 10px 20 rgb(110, 109, 109);
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container-left {
+  background-color: rgb(0, 179, 255);
+  width: 450px;
+}
+
+.container-right {
+  background-color: aliceblue;
+  width: 450px;
+}
+
+.Great {
+  color: white;
+  font-size: 20px;
+  font-weight:  20px; ;
+}
