@@ -1,0 +1,26 @@
+*{
+box-sizing: border-box;
+padding: 10px;
+height: 200px;
+width: 200px;
+
+}
+
+.box{
+    border: 1px solid blue;
+    background-color: aquamarine;
+    position: relative; 
+    top: 3px;
+    left: 20px;
+    
+}
+
+.box2{
+    background-color: blueviolet;
+    border:  1px solid rgba(11, 194, 20, 0.712);
+}
+
+.box3 {
+    background-color: chocolate;
+    border: 1px solid turquoise;
+}

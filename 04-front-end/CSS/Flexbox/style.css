@@ -1,0 +1,32 @@
+
+*{
+
+   
+
+}
+
+
+
+.hijo {
+   
+    background-color: aquamarine;
+    width: 70px;
+    height: 70px;
+    border:  3px solid blueviolet;  
+}
+
+.padre {
+
+    background-color: greenyellow;
+    display: flex;
+    height: 100px;
+    /* flex-direction: column-reverse; */
+    flex-direction: row;
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column  */
+    /* nos permite organizar algun elemento y cambiar su direccion */
+justify-content: flex-start; 
+align-items: center;
+
+
+}
